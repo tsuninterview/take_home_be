@@ -1,13 +1,16 @@
-### Getting Started
+# Data Visualization App Backend
+## Getting Started
 
 Install dependencies
+
 ``` npm install ```
 
 Start backend server
+
 ``` npm start ```
 
 Backend server will now run on [localhost:9000](localhost:9000)
-### Endpoints
+## Endpoints
 
 ```GET /api/production ``` returns cleaned up production data from [here](https://www.hydroquebec.com/data/documents-donnees/donnees-ouvertes/json/production.json).
 
